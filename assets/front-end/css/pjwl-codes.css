@@ -1,0 +1,7 @@
+
+.pjwl-heart:before { content: '\e800'; } /* '' */
+.pjwl-heart-empty:before { content: '\e801'; } /* '' */
+.pjwl-star:before { content: '\e802'; } /* '' */
+.pjwl-star-empty:before { content: '\e803'; } /* '' */
+.pjwl-thumbs-up:before { content: '\e804'; } /* '' */
+.pjwl-thumbs-up-alt:before { content: '\f164'; } /* '' */

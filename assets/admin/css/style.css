@@ -1,0 +1,11 @@
+.pjwl-settings th {
+    width: 320px;
+}
+
+.pjwl-settings .pjwl-text label {
+    display: block;
+    margin: 4px 0;
+}
+.pjwl-settings .pjwl-text input {
+    width: 300px;
+}
